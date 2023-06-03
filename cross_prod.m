@@ -1,4 +1,4 @@
-[Act,CC,Mod,Alpha,Beta,Theta]=readvars("hackathon1.xlsx")
+
 
 Act_by_Wave = [0,-1,0;-1,0,1;0,0,1;-1,0,0;0,-1,1;0,0,0];
 Wave_by_Net = [1,0,0;0,1,0;,1,1,0];
